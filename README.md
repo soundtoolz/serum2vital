@@ -38,7 +38,7 @@ Your files never leave your device.
 Conversion happens locally inside your browser.
 Your presets, wavetables, and noise samples are **never uploaded** anywhere.
 
----
+----
 
 ## Local Development
 
