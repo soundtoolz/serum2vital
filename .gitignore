@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Reference source (btesser/serum2vital) - analysis only, never committed
+btesser-source/
+
+# Test output
+tests/output/
+
+# Pyodide cache
+.pyodide-cache/
+
+# Python
+__pycache__/
+*.pyc
